@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+# Personal Expense Tracker (PHP + MySQL)
 
 A simple, lightweight PHP & MySQL application for tracking personal expenses. Register an account, add expenses, and manage your spending with an easy-to-use dashboard.
 
@@ -9,6 +9,21 @@ A simple, lightweight PHP & MySQL application for tracking personal expenses. Re
 - **Add Expenses** — Quickly record new expenses with descriptions
 - **Manage Expenses** — Edit or delete existing expenses
 - **Responsive Design** — Clean, minimal interface
+
+## Tech Stack
+
+**Frontend:**
+- HTML
+- CSS
+
+**Backend:**
+- PHP
+
+**Database:**
+- MySQL
+
+**Server:**
+- Apache (XAMPP)
 
 ## Prerequisites
 
@@ -141,6 +156,11 @@ For production use:
 ## Support & Feedback
 
 For issues or improvements, review the code comments in each PHP file.
+
+## Author
+
+**Sai Sanket M**  
+GitHub: [saisanket232](https://github.com/saisanket232)
 
 ## License
 
